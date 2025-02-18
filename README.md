@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Sobre mí  
-💻 Desarrollador con experiencia en **JavaScript, Node.js, Flutter y C#**.  
+💻 Desarrollador con experiencia en **JavaScript, Node.js, Flutter, C#, Nest.js**.  
 📚 Siempre aprendiendo nuevas tecnologías y explorando el mundo del desarrollo móvil y backend.  
 🎯 Buscando contribuir en proyectos de código abierto y aprender de la comunidad.  
 
