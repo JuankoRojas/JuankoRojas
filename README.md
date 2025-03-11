@@ -43,8 +43,11 @@
 
 ---
 <p align="center">
-  <img src="https://visitor-badge.io/badge?page_id=JuankoRojas&left_color=blue&right_color=green&style=for-the-badge&logo=github" alt="Visitantes únicos" />
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge?url=https://github.com/JuankoRojas&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitantes+Únicos&edge_flat=false&unique=true"/>
+  </a>
 </p>
+
 
 
 
