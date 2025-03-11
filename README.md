@@ -43,7 +43,9 @@
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JuankoRojas&label=Visitas&color=blue&style=flat" alt="contador de visitas" />
+  <img src="https://visitor-badge.io/badge?page_id=JuankoRojas&left_color=blue&right_color=green&style=for-the-badge&logo=github" alt="Visitantes únicos" />
 </p>
+
+
 
 ⭐ **¡Gracias por visitar mi perfil!**  
