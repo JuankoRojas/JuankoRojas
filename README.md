@@ -44,9 +44,10 @@
 ---
 <p align="center">
   <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge?url=https://github.com/JuankoRojas&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitantes+Únicos&edge_flat=false&unique=true"/>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge?url=https://github.com/JuankoRojas&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitas&edge_flat=false"/>
   </a>
 </p>
+
 
 
 
