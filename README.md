@@ -1,19 +1,19 @@
-<h1 align="center">👋 ¡Hola! Soy Juanko </h1>
+<h1 align="center">👋 Hallo! Ik ben Juanko </h1>
 
 <p align="center">
-  🚀 Desarrollador Junior Full Stack | 💡 Apasionado por la innovación y la tecnología
+  🚀 Junior Full Stack Ontwikkelaar | 💡 Gepassioneerd door innovatie en technologie
 </p>
 
 ---
 
-## 🚀 Sobre mí  
-💻 Desarrollador con experiencia en **JavaScript, Node.js, Flutter, C#, Nest.js**.  
-📚 Siempre aprendiendo nuevas tecnologías y explorando el mundo del desarrollo móvil y backend.  
-🎯 Buscando contribuir en proyectos de código abierto y aprender de la comunidad.  
+## 🚀 Over mij  
+💻 Ontwikkelaar met ervaring in **JavaScript, Node.js, Flutter, C#, Nest.js**.  
+📚 Altijd bezig met het leren van nieuwe technologieën en het verkennen van de wereld van mobiele en backend-ontwikkeling.  
+🎯 Ik wil graag bijdragen aan open source projecten en leren van de community.  
 
 ---
 
-## 🛠️ Tecnologías y Herramientas  
+## 🛠️ Technologieën en Tools  
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -25,10 +25,9 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-
 ---
 
-## 📫 Contacto  
+## 📫 Contact  
 <p align="center">
   <a href="https://www.linkedin.com/in/juankrojas">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -43,12 +42,7 @@
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JuankoRojas&label=Visitas&color=blue&style=flat" alt="contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=JuankoRojas&label=Bezoeken&color=blue&style=flat" alt="bezoekers teller" />
 </p>
 
-
-
-
-
-
-⭐ **¡Gracias por visitar mi perfil!**  
+⭐ **Bedankt voor je bezoek aan mijn profiel!**
