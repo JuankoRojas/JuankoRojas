@@ -1,15 +1,15 @@
-<h1 align="center">👋 Hallo! Ik ben Juanko </h1>
+<h1 align="center">👋 Hi! Im Juanko </h1>
 
 <p align="center">
-  🚀 Junior Full Stack Ontwikkelaar | 💡 Gepassioneerd door innovatie en technologie
+  🚀 Junior Full Stack | 💡 Passionate about Technology
 </p>
 
 ---
 
 ## 🚀 Over mij  
-💻 Ontwikkelaar met ervaring in **JavaScript, Node.js, Flutter, C#, Nest.js**.  
-📚 Altijd bezig met het leren van nieuwe technologieën en het verkennen van de wereld van mobiele en backend-ontwikkeling.  
-🎯 Ik wil graag bijdragen aan open source projecten en leren van de community.  
+💻 Developer with experience in **JavaScript, Node.js, Flutter, C#, Nest.js**.  
+📚 Always busy learning new technologies and exploring the world of mobile and backend development..  
+🎯 I would like to contribute to open source projects and learn from the community..  
 
 ---
 
