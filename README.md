@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Over mij  
-💻 Developer with experience in **JavaScript, Node.js, Flutter, C#, Nest.js**.  
+💻 Developer with experience in **JavaScript, Node.js, C#, Nest.js**.  
 📚 Always busy learning new technologies and exploring the world of mobile and backend development..  
 🎯 I would like to contribute to open source projects and learn from the community..  
 
